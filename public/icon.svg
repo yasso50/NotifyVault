@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+    <linearGradient id="bellGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e0e7ff" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" />
+  <circle cx="256" cy="140" r="28" fill="url(#bellGrad)" />
+  <path d="M256 168 C200 168 168 212 168 280 L144 328 C140 336 146 346 156 346 L356 346 C366 346 372 336 368 328 L344 280 C344 212 312 168 256 168 Z" fill="url(#bellGrad)" />
+  <path d="M224 358 C224 375 238 390 256 390 C274 390 288 375 288 358" fill="none" stroke="url(#bellGrad)" stroke-width="24" stroke-linecap="round" />
+  <circle cx="360" cy="152" r="32" fill="#ef4444" stroke="#ffffff" stroke-width="12" />
+</svg>

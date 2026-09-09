@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotifyVault</string>
+    <string name="notification_service_label">NotifyVault Notification Service</string>
+    <string name="tagline">Your notifications. Your device. Your control.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_settings">Settings</string>
+</resources>

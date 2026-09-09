@@ -1,0 +1,6 @@
+{
+  "name": "NotifyVault",
+  "description": "Production-ready Android notification history and management application featuring local-first privacy, instant search, smart categorization, OTP masking, analytics heatmap, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

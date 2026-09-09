@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotifyVault</string>
+    <string name="notification_service_label">خدمة حفظ الإشعارات لـ NotifyVault</string>
+    <string name="tagline">إشعاراتك. جهازك. تحكمك الكامل.</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_history">السجل</string>
+    <string name="nav_apps">التطبيقات</string>
+    <string name="nav_insights">الإحصائيات</string>
+    <string name="nav_settings">الإعدادات</string>
+</resources>
